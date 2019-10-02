@@ -1,7 +1,7 @@
 # 2D-PTV-Taylor-Green-Vortex
 This is a 2D PTV test case I made using synthetic images. 
 
-Parameters:
+# Parameters:
 dt = .2;
 visc = 0;
 energy_disp =0;
